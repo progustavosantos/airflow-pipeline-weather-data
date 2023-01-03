@@ -1,1 +1,2 @@
-# airflow-pipeline-weather-data
+#### Weather Data Project
+The purpose of this project is to build auto execute tasks to get, provide and analysis data about the weather around Boston, MA, USA for someone who are interested at that point. Well, we can get all this data using a free Visual Crossing API which provide so many ways to get this type of raw data and information. Just because it's a small-sized project at this time, where we're still understanding how this API along with some pipelines can work, we're only using apache airflow version 2.3.2 and Python 3.9 in a Ubuntu platform.
